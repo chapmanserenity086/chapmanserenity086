@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**chapmanserenity086/chapmanserenity086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/26tPghhb310muUkEw/giphy.gif" width="200"/>
+</div>
 
-Here are some ideas to get you started:
+<h1>
+  About me!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<img src="https://media.giphy.com/media/OmK8lulOMQ9XO/giphy.gif" width="300" height="300"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_facepalming: About Me :
+- :cat2: I love kitties
+- :potted_plant: flowers my love
+- :mailbox:How to reach me: 
+[![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/SandraJ28110542)
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chapmanserenity086&theme=dark&background=000000)](https://git.io/streak-stats) 
